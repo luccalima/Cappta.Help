@@ -196,12 +196,11 @@ tim.count {
 }
 
 .tutorial-share {
-	text-align: right;
 
 	a {
 		color: $medium-grey;
 		text-decoration: none;
-		margin-left: 10px;
+		margin-right: 10px;
 
 		&:hover {
 			color: $dark-grey;
@@ -370,6 +369,10 @@ tim.count {
 	}
 
 	ul {
-		margin-bottom: 0;
+		margin: 0;
+	}
+
+	li {
+		margin: 0;
 	}
 }
