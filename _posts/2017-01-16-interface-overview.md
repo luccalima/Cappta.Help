@@ -1,6 +1,6 @@
 ---
 date: 2017-01-16
-title: Interface Overview
+title: Interface overview
 categories:
  - getting-started
 description: How does the interface work?
