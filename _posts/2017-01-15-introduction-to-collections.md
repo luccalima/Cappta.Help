@@ -1,7 +1,7 @@
 ---
 date: 2017-01-15
 title: Introduction to collections
-video_id: _f4aly6xblQ
+video_id: o7ygmIRgvUA
 description: Learn how to use collections to manage and organize related content
 categories:
   - billing

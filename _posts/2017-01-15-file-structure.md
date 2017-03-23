@@ -1,7 +1,7 @@
 ---
 date: 2017-01-15
 title: File structure
-video_id: C4qwj6kHF48
+video_id: iF6emJkKTHk
 description: Overview of Jekyll's file structure
 categories:
   - getting-started

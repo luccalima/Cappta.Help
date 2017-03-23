@@ -1,7 +1,7 @@
 ---
 date: 2017-01-15
 title: Client editable Jekyll sites
-video_id: skb_XWABEDc
+video_id: _iH8f5alzWA
 description: Have non-technical people update Jekyll sites
 categories:
   - deployment
