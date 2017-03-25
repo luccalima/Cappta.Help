@@ -5,6 +5,7 @@ GEM
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.4.3)
       addressable (~> 2.4)
@@ -42,6 +43,9 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
+    nokogiri (1.6.8-x64-mingw32)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
@@ -55,6 +59,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (= 3.4.3)
@@ -65,4 +70,4 @@ DEPENDENCIES
   jekyll-sitemap (= 1.0.0)
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
