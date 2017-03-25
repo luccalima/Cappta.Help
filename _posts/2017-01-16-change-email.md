@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Change email
 categories:
-  - account-settings
+  - gp-windows
 description: "Update your email address"
 type: Document
 ---

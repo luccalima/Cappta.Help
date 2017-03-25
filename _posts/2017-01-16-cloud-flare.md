@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Cloudflare
 categories:
-  - deployment
+  - Portal-De-Vendas
 description: Deploy your Jekyll site on Cloudflare
 type: Document
 ---
