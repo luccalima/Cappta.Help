@@ -1,5 +1,5 @@
 ---
-title: Add a credit card
+title: Add a credit card 2
 date: 2017-01-16 00:00:00 Z
 categories:
 - CapptaPague
